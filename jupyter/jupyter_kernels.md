@@ -6,7 +6,7 @@ Install ```ipykernel```:
 pip install ipykernel
 ```
 
-Run the install script:
+Run the install script for a conda environment ```ds1```:
 
 ```
 python -m ipykernel install --user --name ds1 --display-name ds1
